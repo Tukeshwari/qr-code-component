@@ -1,6 +1,11 @@
 # Frontend Mentor - QR code component
+# deploy-link
+https://tukeshwari-qr-code-component.netlify.app/
+# desktop-view
+![desktop-preview](https://user-images.githubusercontent.com/102142382/223822517-79f614fe-a31b-400a-bb5f-1d63df2bd006.jpg)
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223822570-d5b96053-898d-46fb-9fb9-49edbfbf568a.jpg)
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
